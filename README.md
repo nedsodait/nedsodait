@@ -1,8 +1,10 @@
-## Hi there 👋
+Hi!
 
-Pronouns: vau/vau
+
 Python, Java, JavaScript, Networking
 
+
+EndOfTheStory
 
 <!--
 **nedsodait/nedsodait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
